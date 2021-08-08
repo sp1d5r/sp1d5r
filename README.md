@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=my-website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.doc.ic.ac.uk/~aa1719/#/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sp1d5r_?style=for-the-badge&logo=twitter)
-](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=sp1d5r)
+](https://twitter.com/sp1d5r_)
 ![GitHub followers](https://img.shields.io/github/followers/sp1d5r?style=for-the-badge&logo=github)
 
 ### About me
