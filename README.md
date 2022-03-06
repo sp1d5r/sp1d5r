@@ -11,7 +11,7 @@
 - 🌱 Building an Ed Startup - Pegasus 
 - 🎓 Computer Science at Imperial 
 - 🇫🇷  Learning french... (Very slowly)
-- 🥅 2021 Goals: be better than i was 2020
+- 🥅 2022 Goals: be better than i was 2021
 
 ### Connect! 
 [<img align="left" alt="sp1d5r.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
