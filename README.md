@@ -21,6 +21,10 @@
 <br/>
 
 ### Current Projects 
+[![Website](https://img.shields.io/website?label=Conventa%20Website&up_message=up&style=for-the-badge&url=https%3A%2F%2Fwww.conventa.net)](https://www.conventa.net)
+<br/>
+[![Website](https://img.shields.io/website?label=Register%20Interest%20Conventae&up_message=up&style=for-the-badge&url=https%3A%2F%2Fwww.register-conventa.com)](https://www.register-conventa.com/courses)
+<br/>
 [![Website](https://img.shields.io/website?label=Quandora&up_message=up&style=for-the-badge&url=https%3A%2F%2Fquandora-quant.herokuapp.com)](https://quandora-quant.herokuapp.com)
 <br/>
 [![Website](https://img.shields.io/website?label=Covid%2019%20Tracker&up_message=Up&style=for-the-badge&url=https%3A%2F%2Fcovid-tracker-program.herokuapp.com)](https://covid-tracker-program.herokuapp.com)
