@@ -25,7 +25,7 @@ If you are interested in those we will probably get along.
 ### Current Projects 
 [![Website](https://img.shields.io/website?label=Conventa%20Website&up_message=up&style=for-the-badge&url=https%3A%2F%2Fwww.conventa.net)](https://www.conventa.net)
 <br/>
-[![Website](https://img.shields.io/website?label=Quandora&up_message=up&style=for-the-badge&url=https%3A%2F%2Fwww.viranova.io)](https://www.viranova.io)
+[![Website](https://img.shields.io/website?label=Viranova&up_message=up&style=for-the-badge&url=https%3A%2F%2Fwww.viranova.io)](https://www.viranova.io)
 <br/>
 
 ### Life Story and Lessons
