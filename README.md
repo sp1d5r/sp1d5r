@@ -25,33 +25,24 @@ If you are interested in those we will probably get along.
 ### Current Projects 
 [![Website](https://img.shields.io/website?label=Conventa%20Website&up_message=up&style=for-the-badge&url=https%3A%2F%2Fwww.conventa.net)](https://www.conventa.net)
 <br/>
-[![Website](https://img.shields.io/website?label=Register%20Interest%20Conventae&up_message=up&style=for-the-badge&url=https%3A%2F%2Fwww.register-conventa.com)](https://www.register-conventa.com/courses)
+[![Website](https://img.shields.io/website?label=Quandora&up_message=up&style=for-the-badge&url=https%3A%2F%2Fwww.viranova.io)](https://www.viranova.io)
 <br/>
-[![Website](https://img.shields.io/website?label=Quandora&up_message=up&style=for-the-badge&url=https%3A%2F%2Fquandora-quant.herokuapp.com)](https://quandora-quant.herokuapp.com)
-<br/>
-[![Website](https://img.shields.io/website?label=Covid%2019%20Tracker&up_message=Up&style=for-the-badge&url=https%3A%2F%2Fcovid-tracker-program.herokuapp.com)](https://covid-tracker-program.herokuapp.com)
-<br/>
-[![Website](https://img.shields.io/website?label=Instamation%20-%20Version%201&up_color=red&up_message=Broken&style=for-the-badge&url=https%3A%2F%2Finstamation.herokuapp.com)](https://instamation.herokuapp.com)
-<br/>
-[![Website](https://img.shields.io/website?label=Instamation%20-%20Version%202&up_color=blue&up_message=In%20Progress&style=for-the-badge&url=https%3A%2F%2Finstamation.herokuapp.com)](https://instamation.herokuapp.com)
-<br/>
-[![Website](https://img.shields.io/website?label=ismydadbackyet.com&up_color=blue&up_message=In%20Progress&style=for-the-badge&url=https%3A%2F%2Finstamation.herokuapp.com)](https://ismydadbackyet.com)
-<br/>
-![Website](https://img.shields.io/website?label=Pegasus%20Education&up_color=blue&up_message=In%20Progress&style=for-the-badge&url=https%3A%2F%2Finstamation.herokuapp.com)
 
-### Fun Fact
+### Life Story and Lessons
 
-17... Doing **shady shit**... 
+When I was 18 I was building shitty apps for students like PMT, I was dropshipping rose teddy bears for valentines day... Till the delivery arrived after valentines day. Ruined hundreds of valentines day for people. **I decided to become an entrepneure that solved real problems**.
 
-When I was 18 I was building shitty apps for students like PMT, I was dropshipping rose teddy bears for valentines day... Till the delivery arrived after valentines day. Ruined hundreds of valentines day for people. **I vowed to become an entrepneure that solved real problems**.
+When I was 19 I built 8 "projects" thinking I was building products, however I never made a complete product, incomplete and unfocused. **I decided to focus on building complete products rather than 'side projects'.**
 
-When I was 19 I built 8 "projects" thinking I was building products. **Since then I vowed to make Products people Pay me for**.
+When I was 20 I tried to make an NFT fox collection. I spent $$$ hiring 3D artists on a project I didn't believe in. **Since then I decided to spend my time building products I believe in + don't waste money in the begining**.
 
-When I was 20 I tried to make an NFT fox collection. I spent $$$ hiring 3D artists on a project I didn't believe in. **Since then I vowed to spend my time building products I believe in + don't waste money in the begining**.
+When I was 21 I made conventa (while working at Palantir). I spent 🕐🕔🕗 building conventa, to find out I built a product not with anyone in mind + product market fit is more important than your solution. **Since then I decided to build products with people/businesses in mind.**
 
-When I was 21 I made conventa. I spent 🕐🕔🕗 building conventa, to find out product market fit is more important than your solution. **Since then I vowed to reach product market fit first.**
+When I was 22 I made my web agency (While doing masters). I was able to get several clients which was great! I made my first ~£10K outside of being an employee... However, turned out me being the product results in difficulty scaling. **Since then i decided service based models was not the best approach for scalable businesses**
 
-When I was 22 I made my web agency... Lessons coming soon... 
+When I was 23 I made ViraNova (while doing masters), an AI video short form content platform. While the product was B2B, not a service based model and something people would pay for, I never really marketted the product before having to return to work. **Since then I decided to work my marketing skill.**
+
+When I was 24... What did i do? I'll let you know.
 
 [website]: https://www.doc.ic.ac.uk/~aa1719/#/
 [twitter]: https://twitter.com/sp1d5r_
