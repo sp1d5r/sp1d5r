@@ -27,7 +27,11 @@ If you are interested in those we will probably get along.
 <br/>
 [![Website](https://img.shields.io/website?label=Viranova&up_message=up&style=for-the-badge&url=https%3A%2F%2Fwww.viranova.io)](https://www.viranova.io)
 <br/>
+[![Website](https://img.shields.io/website?label=SlitherNSolve&up_message=up&style=for-the-badge&url=https%3A%2F%2Fmain.d1lptenfvbt5j7.amplifyapp.com)](https://main.d1lptenfvbt5j7.amplifyapp.com)
+<br/>
 [![Website](https://img.shields.io/website?label=ChitterChatter&up_message=up&style=for-the-badge&url=https%3A%2F%2Fmain.da33bv73co276.amplifyapp.com)](https://main.da33bv73co276.amplifyapp.com)
+<br/>
+[![Website](https://img.shields.io/website?label=ViralVault&up_message=up&style=for-the-badge&url=https%3A%2F%2Fmain.dyx2wbsq8ei59.amplifyapp.com)](https://main.dyx2wbsq8ei59.amplifyapp.com)
 <br/>
 
 
